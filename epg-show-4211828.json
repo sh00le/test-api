@@ -8,7 +8,7 @@
   "channel": {
     "channelId": "431",
     "title": "HRT 1",
-    "logo": "logo-hrt1.png",
+    "logo": "https://github.com/sh00le/test-api/raw/master/logo-hrt1.png",
     "chanGroup": "Nacionalni",
     "chanNumber": 1,
     "hasCatchup": 1,
@@ -41,6 +41,6 @@
     "season": "",
     "buyPrice": "",
     "isPPV": false,
-    "image": "4211828-1476aa70-999e-4348-8383-807420f5ddbf_6_XL.jpg"
+    "image": "https://github.com/sh00le/test-api/raw/master/4211828-1476aa70-999e-4348-8383-807420f5ddbf_6_XL.jpg"
   }
 }

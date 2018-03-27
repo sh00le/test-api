@@ -9,7 +9,7 @@
     {
       "channelId": "98",
       "title": "MAXtv promo",
-      "logo": "logo-maxtv.png",
+      "logo": "https://github.com/sh00le/test-api/raw/master/logo-maxtv.png",
       "chanNumber": 0,
       "hasCatchup": false,
       "ottChannel": true,
@@ -62,7 +62,7 @@
     {
       "channelId": "431",
       "title": "HRT 1",
-      "logo": "logo-hrt1.png",
+      "logo": "https://github.com/sh00le/test-api/raw/master/logo-hrt1.png",
       "chanNumber": 1,
       "hasCatchup": true,
       "ottChannel": true,
@@ -115,7 +115,7 @@
     {
       "channelId": "432",
       "title": "HRT 2",
-      "logo": "logo-hrt2.png",
+      "logo": "https://github.com/sh00le/test-api/raw/master/logo-hrt2.png",
       "chanNumber": 2,
       "hasCatchup": true,
       "ottChannel": true,
@@ -168,7 +168,7 @@
     {
       "channelId": "454",
       "title": "RTL",
-      "logo": "logo-rtl.png",
+      "logo": "https://github.com/sh00le/test-api/raw/master/logo-rtl.png",
       "chanNumber": 3,
       "hasCatchup": true,
       "ottChannel": true,

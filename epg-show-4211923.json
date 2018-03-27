@@ -8,7 +8,7 @@
   "channel": {
     "channelId": "454",
     "title": "RTL",
-    "logo": "logo-rtl.png",
+    "logo": "https://github.com/sh00le/test-api/raw/master/logo-rtl.png",
     "chanGroup": "Nacionalni",
     "chanNumber": 3,
     "hasCatchup": 1,
@@ -41,6 +41,6 @@
     "season": "3",
     "buyPrice": "",
     "isPPV": false,
-    "image": "4211923-07cda060-b868-4f09-a425-1c423bc36b60_6_XL.jpg"
+    "image": "https://github.com/sh00le/test-api/raw/master/4211923-07cda060-b868-4f09-a425-1c423bc36b60_6_XL.jpg"
   }
 }

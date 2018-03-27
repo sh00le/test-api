@@ -1,0 +1,46 @@
+{
+  "status": {
+    "code": 200,
+    "message": "OK",
+    "authType": "Unauthenticated",
+    "ottSessionToken": null
+  },
+  "channel": {
+    "channelId": "454",
+    "title": "RTL",
+    "logo": "logo-rtl.png",
+    "chanGroup": "Nacionalni",
+    "chanNumber": 3,
+    "hasCatchup": 1,
+    "ottChannel": 1,
+    "userSubscribed": 1
+  },
+  "show": {
+    "showId": "4211923",
+    "title": "Velvet, dramska serija",
+    "startTime": 1522065000,
+    "endTime": 1522070100,
+    "category": "Serija",
+    "genre": "Serija",
+    "description": "Velvet - modno carstvo izgrađeno od svile, senzualnosti i zavođenja.\nU kasnim 50-ima, u zlatno vrijeme visoke mode, u Madridu postoji jedno mjesto, carstvo mode, koje bi svi barem jednom u životu voljeli posjetiti i tamo nešto kupiti. To je Galerias Velevet, glamurozna art déco modna palača. No ono što posjetitelji i usputni prolaznici, koji uživaju u izlogu slavne trgovine, ne primjećuju jest ljubavna priča između Ane (Paula Echevarría) i Alberta (Miguel Ángel Silvestre) koja se zbiva u luksuznom zdanju modnog dućana. Ana je skromna krojačica, a Albert vlasnikov sin, nasljednik kojemu je sudbina odredila da nastavi obiteljski posao. Kako se 60-e približavaju, tako se kruti španjolski običaji i društvene konvencije mijenjaju. Žene više ne žele odjeću koju si ne mogu priuštiti te zahtijevaju drugačiju modu.\nAutori hvaljene serije „Grand Hotel isporučili su nam novu hit seriju, smještenu u modnu galeriju glamuroznog Madrida 50-ih,  koja je svoje premijerno prikazivanje imala na privatnom kanalu Antena 3 te ostvarila impresivni uspjeh - 4,8 milijuna pratilo je njezin TV debi, što je činilo 24,6% udjela u gledanosti!\nPrema riječima samog scenarista Ramóna Camposa, „Velvet donosi jedan od najvažnijih trenutaka u povijesti modne industrije - tranziciju visoke mode u prȇt-à-porter modni izričaj, trenutak kada su zaljubljenici u umjetnost i dizajneri smatrali da se moda mora demokratizirati i pripasti svim slojevima društva. Inspiracija za kreiranje galerije Velvet posuđena o...",
+    "ageRating": "",
+    "director": null,
+    "actors": null,
+    "blackout": false,
+    "hasReminder": 0,
+    "hasRecording": 0,
+    "hasSeriesRecording": 0,
+    "userOttPlayable": 0,
+    "userIptvPlayable": 0,
+    "userRecording": 0,
+    "userReminder": 0,
+    "userStbPaired": 0,
+    "userLocked": false,
+    "seriesId": "6020003056106",
+    "episode": "12",
+    "season": "3",
+    "buyPrice": "",
+    "isPPV": false,
+    "image": "4211923-07cda060-b868-4f09-a425-1c423bc36b60_6_XL.jpg"
+  }
+}

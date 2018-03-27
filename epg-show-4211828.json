@@ -1,0 +1,46 @@
+{
+  "status": {
+    "code": 200,
+    "message": "OK",
+    "authType": "Unauthenticated",
+    "ottSessionToken": null
+  },
+  "channel": {
+    "channelId": "431",
+    "title": "HRT 1",
+    "logo": "logo-hrt1.png",
+    "chanGroup": "Nacionalni",
+    "chanNumber": 1,
+    "hasCatchup": 1,
+    "ottChannel": 1,
+    "userSubscribed": 1
+  },
+  "show": {
+    "showId": "4211828",
+    "title": "Plodovi zemlje",
+    "startTime": 1522065900,
+    "endTime": 1522069200,
+    "category": "ostalo",
+    "genre": "ostalo",
+    "description": null,
+    "ageRating": "",
+    "director": null,
+    "actors": null,
+    "blackout": false,
+    "hasReminder": 0,
+    "hasRecording": 0,
+    "hasSeriesRecording": 0,
+    "userOttPlayable": 0,
+    "userIptvPlayable": 0,
+    "userRecording": 0,
+    "userReminder": 0,
+    "userStbPaired": 0,
+    "userLocked": false,
+    "seriesId": "6000002724649",
+    "episode": "",
+    "season": "",
+    "buyPrice": "",
+    "isPPV": false,
+    "image": "4211828-1476aa70-999e-4348-8383-807420f5ddbf_6_XL.jpg"
+  }
+}

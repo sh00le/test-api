@@ -1,0 +1,46 @@
+{
+  "status": {
+    "code": 200,
+    "message": "OK",
+    "authType": "Unauthenticated",
+    "ottSessionToken": null
+  },
+  "channel": {
+    "channelId": "432",
+    "title": "HRT 2",
+    "logo": "logo-hrt2.png",
+    "chanGroup": "Nacionalni",
+    "chanNumber": 2,
+    "hasCatchup": 1,
+    "ottChannel": 1,
+    "userSubscribed": 1
+  },
+  "show": {
+    "showId": "4211991",
+    "title": "Kuharski izazov, francuski film (2013.)",
+    "startTime": 1522063500,
+    "endTime": 1522068900,
+    "category": "Film",
+    "genre": "Film",
+    "description": "Komedija o genijalnom kuharu čija jela su sve što on nije - puna raskošnih okusa i slasti!\nVictor (B. Le Coq), vlasnik i glavni kuhar ekskluzivnog, otmjenog i jako skupog restorana, ima stroga i kruta pravila i u životu i u kuhinji, no njegova jela imaju rajski okus - genij je za kuhanje.\nKad mu liječnik kaže da mu je srce slabo i da neće živjeti dulje od godine dana, on traži svog nasljednika. Njegova je ekipa odlična, ali nijedno od njih nema ono nešto... Tek kad proba jednu čokoladnu tortu koja ima božanski okus, ali i ono što on traži u hrani, dušu, shvati da bi onaj tko je tu tortu načinio mogao biti njegov dostojan nasljednik. Krene u potragu i otkrije da je savršenu tortu napravila mlada mještanka Annabelle (A. Hesme), koju je djed naučio raditi kolače i koja nije nimalo zainteresirana za rad u Victorovom prestižnom restoranu... Slijedi zaplet koji je možda očekivan, ali i rasplet koji to nije!",
+    "ageRating": "",
+    "director": "Sandrine Cohen",
+    "actors": "Bernard Le Coq,Annelise Hesme",
+    "blackout": false,
+    "hasReminder": 0,
+    "hasRecording": 0,
+    "hasSeriesRecording": 0,
+    "userOttPlayable": 0,
+    "userIptvPlayable": 0,
+    "userRecording": 0,
+    "userReminder": 0,
+    "userStbPaired": 0,
+    "userLocked": false,
+    "seriesId": null,
+    "episode": "",
+    "season": "",
+    "buyPrice": "",
+    "isPPV": false,
+    "image": "4211991-fb34e739-8003-4eb7-ae55-c66de5969478_6_XL.jpg"
+  }
+}
